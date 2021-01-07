@@ -31,3 +31,16 @@
 # Debug files
 *.dSYM/
 *.su
+
+# output
+*.log
+*.err
+*.std
+
+# bin
+bm_server
+bm_widget
+dealer
+example_player
+kuhn_3p_equilibrium_player/kuhn_3p_equilibrium_player
+
